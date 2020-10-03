@@ -10,7 +10,6 @@ import Contact from './views/Contact';
 import Index from './views/Index';
 import NotFound from './views/NotFound';
 import Resume from './views/Resume';
-import Stats from './views/Stats';
 
 // All of our CSS
 import './static/css/main.scss';
