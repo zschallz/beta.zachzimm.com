@@ -20,7 +20,7 @@ ReactDOM.render(
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
       <Route path="/contact" component={Contact} />
-      <Route path="/resume" component={Resume} />
+      <Route path="/cv" component={Resume} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>

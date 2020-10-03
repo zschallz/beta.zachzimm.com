@@ -9,8 +9,8 @@ const data = [
     label: 'About',
   },
   {
-    path: '/resume',
-    label: 'Resume',
+    path: '/cv',
+    label: 'CV',
   },
   {
     path: '/contact',
